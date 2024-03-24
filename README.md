@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calbel60
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in HTML, CSS, JS
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
